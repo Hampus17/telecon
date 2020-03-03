@@ -1,0 +1,14 @@
+.sidebar {
+    width: 8rem;
+    height: 100%;
+    border-right: 1px solid rgba(189, 189, 192, 0.253);
+    background-color: var(--secondary-bg);
+    transition: width 0.3s;   
+}
+
+/* Non-small devices */
+@media screen and (min-width: 576px) {
+    .sidebar {
+        width: 32rem;
+    }
+}

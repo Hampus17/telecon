@@ -1,0 +1,8 @@
+:root {
+    --primary-bg: #1a1f20;
+    --secondary-bg: #0c0e0e;
+}
+
+html {
+    font-size: 62.5%;
+}

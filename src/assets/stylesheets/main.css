@@ -1,0 +1,5 @@
+.main {
+    flex: 1 1 0;
+    background-color: var(--primary-bg);
+    height: 100%;
+}
